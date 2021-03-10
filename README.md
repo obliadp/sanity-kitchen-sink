@@ -4,7 +4,7 @@ A “[kitchen sink](https://stackoverflow.com/questions/33779296/what-is-exact-m
 
 This starter is great for demo purposes, either to evaluate Sanity for your own use, or when you want to offer it as part of a project for your clients.
 
-Because this starter is used for demo purposes, you will find that not all fields in the Studio has been wired up to the example frontend. This is not intented for use in production.
+Because this starter is used for demo purposes, you will find that not all fields in the Studio have been wired up to the example frontend. This is not intented for use in production.
 
 You can bootstrap a new project from this template by following this link to [sanity.io/create](https://www.sanity.io/create?template=sanity-io%2Fsanity-template-kitchen-sink).
 
